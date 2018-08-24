@@ -3,3 +3,5 @@ what are you going?
 i'm learn Git?
 
 Great
+
+Creating a new branch is quick AND simple.
